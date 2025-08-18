@@ -72,7 +72,7 @@ The project provides CRUD operations, advanced search, sorting, pagination, and 
 ## ⚙️ Installation & Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/news_management_iyembergen.git
+git clone https://github.com/IyembergenDana/news_management_iyembergen.git
 
 # Navigate to project directory
 cd news_management_iyembergen
